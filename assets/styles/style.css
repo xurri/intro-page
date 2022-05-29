@@ -88,10 +88,10 @@ ul li {
   text-align: center;
 }
 .container * {
-  margin-block: .5em;
+  margin-block: 2em;
 }
 .punch-line {
-  font-size: 35px;
+  font-size: 3rem;
   font-family: Epilouge, Sans-Serif;
   font-weight: 700;
 }
