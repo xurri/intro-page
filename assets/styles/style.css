@@ -210,6 +210,9 @@ ul li {
      padding: 1em 2.5em;
      margin-bottom: 5em; 
    }
+   .btn a {
+     font-size: 1.3rem;
+   }
 }
 
 
