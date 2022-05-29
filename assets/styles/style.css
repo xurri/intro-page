@@ -200,18 +200,20 @@ ul li {
      margin-right: 4em;
    }
    .punch-line {
-     font-size: 4.5rem;
+     font-size: 5rem;
    }
    .text {
      padding-left: 0;
-     padding-right: 3em;
+     padding-right: 4.5em;
+     margin-block: 2em;
    }
    .btn {
      padding: 1em 2.5em;
      margin-bottom: 5em; 
    }
    .btn a {
-     font-size: 1.3rem;
+     font-size: 1.5rem;
+     color: white;
    }
 }
 
