@@ -197,17 +197,17 @@ ul li {
    }
    .container {
      text-align: left;
-     padding-inline: 3em;
      margin-right: 4em;
    }
    .punch-line {
-     font-size: 5.5rem;
+     font-size: 4.5rem;
    }
    .text {
      padding-left: 0;
+     padding-right: 3em;
    }
    .btn {
-     padding: 1.5em 2.5em;
+     padding: 1em 2.5em;
      margin-bottom: 5em; 
    }
 }
