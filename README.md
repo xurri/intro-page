@@ -6,7 +6,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Solution](#solution)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -20,7 +20,7 @@ Users should be able to:
 - View the optimal layout for the content depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Links
+### Solution
 
 - Solution URL: [Github Repository](https://github.com/xurri/intro-page)
 - Live Site URL: [Live Demo](https://xurri.github.io/intro-page)
