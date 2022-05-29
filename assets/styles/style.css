@@ -86,12 +86,13 @@ ul li {
 }
 .container {
   text-align: center;
+  padding: 2em 1em;
 }
 .container * {
-  margin-block: 2em;
+  margin-block: .5em;
 }
 .punch-line {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-family: Epilouge, Sans-Serif;
   font-weight: 700;
 }
@@ -196,15 +197,17 @@ ul li {
    }
    .container {
      text-align: left;
+     padding-inline: 3em;
      margin-right: 4em;
    }
    .punch-line {
-     font-size: 3.5rem;
+     font-size: 5.5rem;
    }
    .text {
      padding-left: 0;
    }
    .btn {
+     padding: 1.5em 2.5em;
      margin-bottom: 5em; 
    }
 }
